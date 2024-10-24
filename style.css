@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background:url(https://th.bing.com/th/id/OIP.OrT7tFuZg6_lI0tZKv0ncAHaGX?w=222&h=191&c=7&r=0&o=5&pid=1.7)
+    
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 10px 10px 70px 34px rgba(222,117,193,0.75);
+    -webkit-box-shadow: 10px 10px 70px 34px rgba(222,117,193,0.75);
+    -moz-box-shadow: 10px 10px 70px 34px rgba(222,117,193,0.75);
+    
+}
+
+h1 {
+    color: #ffcc00;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+button {
+    background-color: #ffcc00;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #e6b800;
+}
+
+#maincontainer{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
